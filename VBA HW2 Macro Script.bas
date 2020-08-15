@@ -1,7 +1,6 @@
 Attribute VB_Name = "Module1"
 Sub STOCK_TICKER()
 
-
 For Each ws In Worksheets
     ws.Activate
     
